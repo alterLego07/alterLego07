@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlpY3FkMHA4enJrdGZ1M2VidnlhMTJ5Z2hyaWRvOWFldGhmZTNveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 
 ###
