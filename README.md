@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alterLego07/alterLego07/output/snake.svg" alt="Snake animation" />
-
-###
